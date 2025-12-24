@@ -29,14 +29,6 @@
 
 ---
 
-## 🌟 Featured Projects
-- 🔹 **AgroVision** – Smart agriculture platform  
-- 🔹 **PicAura** – Image processing app  
-- 🔹 **PassNest** – Secure password manager  
-- 🔹 **My Portfolio** – Personal website  
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/revanth-pasham-5587052b6" target="_blank">
