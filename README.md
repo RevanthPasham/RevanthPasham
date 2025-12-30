@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi, I'm Revanth 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E40AF&height=200&section=header&text=Hi%20I'm%20Revanth%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=38BDF8&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;AI+Agents+Builder"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;AI+Agents+Builder;Backend+Focused;Always+Learning+🚀"
     alt="Typing Animation"
   />
 </p>
@@ -15,16 +15,24 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Web Developer (MERN)
-- 🤖 Interested in AI Agents & Automation
-- 🌱 Currently improving backend & system design
-- 📍 India
+- 💻 **Full Stack MERN Developer**
+- 🤖 **AI Agents & Automation Enthusiast**
+- ⚙️ **Backend & System Design Focus**
+- 🌱 **Currently improving scalable architectures**
+- 📍 **India**
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack (Animated)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python,html,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python,html,css,tailwind,figma&theme=dark" />
+</p>
+
+---
+
+## 🌊 Contribution Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -32,40 +40,43 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/revanth-pasham-5587052b6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:pashamrevanth541@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://revanth-chi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Blue Vibrant)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RevanthPasham&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RevanthPasham&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RevanthPasham&show_icons=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&border_color=1E40AF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RevanthPasham&theme=transparent&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=ffffff&sideLabels=ffffff&dates=94A3B8" height="165"/>
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&border_color=1E40AF"/>
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RevanthPasham&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=RevanthPasham&label=Profile%20Views&color=38BDF8&style=flat"/>
 </p>
 
 ---
 
-⭐ **If you like my work, give a star to my repositories!**
+⭐ **If you like my work, don’t forget to star ⭐ my repositories!**
+
+<!-- ================= FOOTER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:38BDF8&height=120&section=footer"/>
