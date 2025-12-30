@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;AI+Agents+Builder;Backend+Focused;Always+Learning+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;AI+Agents+Builder;Backend+Focused"
     alt="Typing Animation"
   />
 </p>
