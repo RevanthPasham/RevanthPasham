@@ -23,14 +23,14 @@
 
 ---
 
-## 🛠️ Tech Stack (Animated)
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python,html,css,tailwind,figma&theme=dark" />
 </p>
 
 ---
 
-## 🌊 Contribution
+## 🌊 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
@@ -54,17 +54,26 @@
 
 ---
 
-## 📊 GitHub Stats (Blue Vibrant)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RevanthPasham&show_icons=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&border_color=1E40AF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RevanthPasham&theme=transparent&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=ffffff&sideLabels=ffffff&dates=94A3B8" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RevanthPasham&show_icons=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&border_color=1E40AF&cache_seconds=1800" 
+    height="165"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=transparent&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=ffffff&sideLabels=ffffff&dates=94A3B8" 
+    height="165"
+  />
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&border_color=1E40AF"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&border_color=1E40AF&cache_seconds=1800"
+  />
 </p>
 
 ---
