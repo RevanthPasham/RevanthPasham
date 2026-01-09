@@ -58,10 +58,6 @@
     src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=RevanthPasham&show_icons=true&theme=dark&v=1"
     height="165"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=dark"
-    height="165"
-  />
 </p>
 
 ---
