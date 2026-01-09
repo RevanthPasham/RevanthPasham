@@ -51,17 +51,16 @@
 
 ---
 
-## 📊 GitHub Status (Status + Highest Streak)
+## 📊 GitHub Status (Stats + Highest Streak)
 <p align="center">
   <img
     src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=RevanthPasham&show_icons=true&theme=dark&v=1"
     height="165"
   />
-  ## 📊 GitHub Status
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=RevanthPasham&show_icons=true&theme=dark&v=1" />
-</p>
-
+  <img
+    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=dark&v=1"
+    height="165"
+  />
 </p>
 
 > ℹ️ **Note:** The streak card shows **Current Streak** and **Longest Streak (Highest Streak)** automatically.
