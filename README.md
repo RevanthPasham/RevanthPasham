@@ -57,12 +57,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RevanthPasham&show_icons=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&border_color=1E40AF&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=RevanthPasham&show_icons=true&theme=dark&v=1"
     height="165"
   />
 
   <img 
-    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=transparent&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=ffffff&sideLabels=ffffff&dates=94A3B8" 
+    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=dark&v=1"
     height="165"
   />
 </p>
@@ -72,9 +72,14 @@
 ## 🔥 Most Used Languages
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&border_color=1E40AF&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=dark&v=1"
   />
 </p>
+
+<!--
+If this card ever shows blank, replace the URL with:
+https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=dark&hide=html,css&v=2
+-->
 
 ---
 
