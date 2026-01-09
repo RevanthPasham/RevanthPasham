@@ -4,7 +4,6 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;AI+Agents+Builder;Backend+Focused"
-    alt="Typing Animation"
   />
 </p>
 
@@ -39,30 +38,32 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/revanth-pasham-5587052b6" target="_blank">
+  <a href="https://www.linkedin.com/in/revanth-pasham-5587052b6">
     <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pashamrevanth541@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://revanth-chi.vercel.app/" target="_blank">
+  <a href="https://revanth-chi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Highest Streak
+## 📊 GitHub Status (Stats + Highest Streak)
 <p align="center">
   <img
     src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=RevanthPasham&show_icons=true&theme=dark&v=1"
     height="165"
   />
   <img
-    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=dark"
+    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=dark&v=1"
     height="165"
   />
 </p>
+
+> ℹ️ **Note:** The streak card shows **Current Streak** and **Longest Streak (Highest Streak)** automatically.
 
 ---
 
