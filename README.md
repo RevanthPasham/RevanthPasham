@@ -1,8 +1,8 @@
 <!-- ================= HEADER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E40AF&height=200&section=header&text=Hi%20I'm%20Revanth%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E40AF&height=200&section=header&text=Hi%20I'm%20Revanth%20👋&fontSize=40&fontColor=ffffff" />
 
 <p align="center">
-  <img 
+  <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;AI+Agents+Builder;Backend+Focused"
     alt="Typing Animation"
   />
@@ -18,7 +18,7 @@
 - 💻 **Full Stack MERN Developer**
 - 🤖 **AI Agents & Automation Enthusiast**
 - ⚙️ **Backend & System Design Focus**
-- 🌱 **Currently improving scalable architectures**
+- 🌱 **Improving scalable architectures**
 - 📍 **India**
 
 ---
@@ -42,11 +42,9 @@
   <a href="https://www.linkedin.com/in/revanth-pasham-5587052b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:pashamrevanth541@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://revanth-chi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -56,13 +54,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RevanthPasham&show_icons=true&theme=dark&v=1"
+  <img
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=RevanthPasham&show_icons=true&theme=dark&v=1"
     height="165"
   />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=dark&v=1"
+  <img
+    src="https://streak-stats.demolab.com?user=RevanthPasham&theme=dark"
     height="165"
   />
 </p>
@@ -71,21 +68,16 @@
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=dark&v=1"
+  <img
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=dark&hide=html,css&v=1"
   />
 </p>
-
-<!--
-If this card ever shows blank, replace the URL with:
-https://github-readme-stats.vercel.app/api/top-langs/?username=RevanthPasham&layout=compact&theme=dark&hide=html,css&v=2
--->
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RevanthPasham&label=Profile%20Views&color=38BDF8&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=RevanthPasham&label=Profile%20Views&color=38BDF8"/>
 </p>
 
 ---
