@@ -74,14 +74,7 @@
   />
 </p>
 
----
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RevanthPasham&label=Profile%20Views&color=38BDF8"/>
-</p>
-
----
 
 ⭐ **If you like my work, don’t forget to star ⭐ my repositories!**
 
